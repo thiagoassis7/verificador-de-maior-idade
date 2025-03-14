@@ -1,6 +1,4 @@
-Utilisando java para criar um pequeno pograma para veificar se é maior de idade ou nao , com esse programa  foi praticado a parte de condicionais aprendido em aula. 
 
-Verificador de Maioridade
 
 Este é um simples programa em Java que solicita ao usuário seu nome, ano de nascimento e o ano atual para verificar se ele é maior ou menor de idade.
 
